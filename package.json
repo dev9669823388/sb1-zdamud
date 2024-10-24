@@ -1,0 +1,14 @@
+{
+  "name": "bot-master-sender-docs",
+  "version": "1.0.0",
+  "description": "Documentation for Bot Master Sender WhatsApp API",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  }
+}
